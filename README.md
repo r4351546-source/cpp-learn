@@ -1,162 +1,105 @@
-# 🧠 cpp-learn
+# 👋 Hey, I'm Roma!
 
-> My personal C++ learning repository — experiments, exercises and small projects made while learning C++.
+I'm **Roma**, a 12-year-old programmer from Ukraine 🇺🇦
 
-This repository is basically my **C++ laboratory**.
+I've been programming for about **4 months**, and this repository is a small part of my journey.
 
-I use it to save the code I write while learning new C++ concepts, testing ideas and building small projects instead of just watching tutorials and pretending I understood everything. 💀
+I started learning programming because I wanted to understand how things actually work under the hood — not just use them.
 
-Some projects are simple. Some are messy. Some probably should never see production.
-
-**And that's the point.**
+At the moment, I'm mainly focused on **C++** and trying to understand programming from the fundamentals rather than simply copying code from tutorials.
 
 ---
 
-## 🎯 Why this repository exists
+## 🧠 A little about me
 
-I'm learning C++ by actually writing code.
+* 👦 **Name:** Roma
+* 🎂 **Age:** 12
+* 💻 **Programming experience:** ~4 months
+* 🇺🇦 **From:** Ukraine
+* 🧠 **Main language:** C++
+* 🐧 **OS:** Linux
+* ✍️ **Editor:** Neovim
 
-Instead of keeping every exercise somewhere on my disk and eventually forgetting about it, I put the important ones here to track my progress over time.
+I'm still at the beginning of my programming journey, so this repository isn't supposed to contain perfect code.
 
-The repository contains:
-
-* 🧩 Small experiments
-* 📚 Learning exercises
-* 🎮 Small games
-* 🖥️ System/programming experiments
-* 🧪 Random C++ experiments
-* 🚧 Projects that are definitely not finished
-
-This repository is **not meant to be a polished library or production project**.
-
-It's a record of learning.
+It's supposed to show **progress**.
 
 ---
 
-## 📂 Current projects
+## 🚀 My journey
 
-| File             | What it is                                            |
-| ---------------- | ----------------------------------------------------- |
-| `bool.cpp`       | Experiments with the `bool` type                      |
-| `abstrdecs.cpp`  | Experiments with abstract declarations / C++ concepts |
-| `mygame.cpp`     | A small console game                                  |
-| `myOS_0.0.2.cpp` | An experimental "OS" project                          |
+I've only been programming for a few months, but during that time I've been trying to go deeper than just learning syntax.
 
-> The projects will probably become larger and more interesting as I learn more C++.
+I like understanding **why** something works, what happens underneath the abstractions, and what is actually happening inside the computer.
 
----
+Sometimes that means writing a small program.
 
-## 🛠️ What I'm learning
+Sometimes it means breaking something completely.
 
-The repository will grow together with my knowledge of C++.
+Sometimes it means staring at a compiler error for 20 minutes wondering what the hell I just did. 💀
 
-### Currently exploring
+And then fixing it.
 
-* [x] Basic syntax
-* [x] Variables and data types
-* [x] Conditions
-* [x] Loops
-* [x] Functions
-* [x] Basic OOP
-* [x] Pointers
-* [x] STL basics
-* [x] `pair`
-* [x] `tuple`
-* [ ] More STL
-* [ ] Algorithms
-* [ ] Templates
-* [ ] Advanced OOP
-* [ ] Memory management
-* [ ] More advanced C++
-* [ ] Larger projects
-
-This checklist is intentionally a work in progress.
+That's basically how I'm learning.
 
 ---
 
-## 🧪 Philosophy
+## 📚 Why this repository exists
 
-I don't want this repository to contain only perfect code.
+This repository is my **learning archive**.
 
-I want to be able to look back at it later and see:
+I put things here that helped me understand something new, experiments I made while learning, and code that represents a certain point in my progress.
 
-```text
-"holy shit, I actually improved"
-```
+Some of the code here will probably look terrible to me in a year.
 
-So old code stays here.
+**That's a good thing.**
 
-Bad code stays.
+If I look back at this repository and think:
 
-Weird code stays.
+> "What the fuck was I writing?"
 
-The questionable variable names stay.
-
-The compiler errors probably stay in my memories forever. 💀
+then it means I improved. 😭
 
 ---
 
-## ⚙️ Building
+## 📈 4 months in
 
-Most files are standalone C++ programs.
+Four months isn't a long time.
 
-For example:
+I'm still learning, still making stupid mistakes, and still discovering new things almost every day.
 
-```bash
-g++ mygame.cpp -o mygame
-./mygame
-```
+But that's exactly what makes this repository interesting to me.
 
-You can replace `mygame.cpp` with whichever source file you want to compile.
+It's not a showcase of someone who already knows everything.
 
-I mainly develop on Linux using a terminal-based workflow.
+It's a snapshot of **where I am right now**.
 
----
+I'll keep adding to it as I learn more.
 
-## 📈 Progress
+Maybe one day I'll come back here, look at the old code and laugh.
 
-This repository is a timeline of my C++ learning.
-
-New concepts → small experiments → bigger projects.
-
-The goal isn't to make every commit impressive.
-
-The goal is to make the **next commit better than the previous one**.
+Hopefully very hard. 💀
 
 ---
 
-## 🚀 Future plans
+## ☕ The goal
 
-As I continue learning C++, this repository will gradually expand with:
+I don't have a goal of becoming "perfect at programming".
 
-* More STL projects
-* Algorithms
-* Data structures
-* OOP projects
-* File handling
-* Memory management
-* More complex console applications
-* System programming experiments
-* Larger personal projects
+I just want to keep going deeper.
 
-Eventually, some projects will probably move into their own repositories once they become large enough.
+Understand more.
 
----
+Build more.
 
-## 👨‍💻 About
+Break more things.
 
-This is a personal learning repository by **r4351546-source**.
+Fix them.
 
-I'm learning C++, experimenting with programming and building things mostly because it's fun to see how far I can push them.
-
-No fancy framework.
-
-No giant architecture.
-
-Just C++, curiosity and a suspicious amount of compiler errors. ☕💻
+And eventually be able to look at the code I write today and clearly see how far I've come.
 
 ---
 
 <p align="center">
-  <b>Learning C++ one bad idea at a time.</b> 🧠
+  <i>Started with curiosity. Staying for the rabbit hole. 🐇</i>
 </p>
